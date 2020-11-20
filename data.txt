@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 5.1
+#Version: 1.0
+#Date:  03:55:34
+#Fields: time c-ip cs-method cs-uri-stem sc-status 
+03:55:34 127.0.0.1 [1]USER anonymous 331
+03:55:42 127.0.0.1 [1]PASS me@herongyang.com 230
+03:55:49 127.0.0.1 [1]QUIT - 226
+04:07:57 127.0.0.1 [2]sent /ftp.html 226
+04:07:57 127.0.0.1 [2]sent /index.html 226
+04:07:58 127.0.0.1 [2]sent /reference.html 226
+03:55:49 127.0.0.1 [1]QUIT - 226
+
